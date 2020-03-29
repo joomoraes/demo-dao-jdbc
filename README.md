@@ -1,2 +1,2 @@
 # Banco de Dados Acesso JDBC
-<img src="imgs/18767895_1264910110301185_3494154831467527187_n.jpg">
+<img src="imgs/uml.jpg">
